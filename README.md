@@ -47,7 +47,7 @@ Effective inventory and sales management are critical in the retail sector. This
 - SQL (Common Table Expressions, Joins, Filtering)
 - Python (Pandas, Matplotlib, Seaborn, SciPy)
 - Power BI (Interactive Visualizations)
-- GitHub
+
 
 ---
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
@@ -155,8 +155,8 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Hemangi Parab**  
 Data Analyst  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+📧 Email: hemangiparab05@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/hemangi-parab-541b67313/)  
+
