@@ -158,5 +158,5 @@ python scripts/get_vendor_summary.py
 **Hemangi Parab**  
 Data Analyst  
 📧 Email: hemangiparab05@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/hemangi-parab-541b67313/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hemangi-parab-541b67313/)  
 
